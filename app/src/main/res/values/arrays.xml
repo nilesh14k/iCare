@@ -1,0 +1,27 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>light_theme</item>
+        <item>dark_theme</item>
+    </string-array>
+
+    <!-- Ring Preference -->
+    <string-array name="ring_entries">
+        <item>Women-English</item>
+        <item>Women-Hindi</item>
+        <item>Men-English</item>
+        <item>Men-Hindi</item>
+    </string-array>
+
+    <string-array name="ring_values">
+        <item>women_english_ring</item>
+        <item>women_hindi_ring</item>
+        <item>men_english_ring</item>
+        <item>men_hindi_ring</item>
+    </string-array>
+</resources>

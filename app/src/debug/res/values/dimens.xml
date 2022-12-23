@@ -1,0 +1,34 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="minorMargin">7dp</dimen>
+    <dimen name="allMargin">20dp</dimen>
+    <dimen name="counterText">90dp</dimen>
+    <dimen name="buttonText">76dp</dimen>
+    <dimen name="mainCardMargin">17dp</dimen>
+    <dimen name="textTwo">22dp</dimen>
+    <dimen name="zeroMargin">0dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="fab_icon">35dp</dimen>
+    <dimen name="Intro_sixe">50dp</dimen>
+    <dimen name="ListText">30dp</dimen>
+    <dimen name="thirtyMargin">30dp</dimen>
+    <dimen name="paddingTop">65dp</dimen>
+    <dimen name="paddingContacts">7dp</dimen>
+    <dimen name="maxWidth">60dp</dimen>
+    <dimen name="random">95dp</dimen>
+    <dimen name="minorMarginStat">6dp</dimen>
+    <dimen name="mainCardMarginStat">8dp</dimen>
+    <dimen name="maxWidthIcons">15dp</dimen>
+    <dimen name="cardMarginRadiusStat">30dp</dimen>
+    <dimen name="carHeightStat">45dp</dimen>
+    <dimen name="textContactSize">30dp</dimen>
+    <dimen name="cardMarginRadiusContact">3dp</dimen>
+    <dimen name="contactCard">60dp</dimen>
+    <dimen name="maxWidth2">42dp</dimen>
+    <dimen name="textContactDetail">17dp</dimen>
+</resources>

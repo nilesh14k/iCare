@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">iCare</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="btn_name">Cancel</string>
+    <string name="alertText">ALERT! I\'m sending your location. To avoid this action press \"CANCEL\" button.</string>
+    <!-- Preference Titles -->
+    <string name="appearance_header">Appearance</string>
+    <string name="alert_header">Alert</string>
+    <string name="security_header">Security</string>
+    <string name="extra_header">Extra</string>
+
+
+    <!-- Subtitles -->
+    <string name="name_title">Your Name</string>
+    <string name="theme_title">Theme</string>
+    <string name="ring_title">Ringtone</string>
+    <string name="pin_title">Pin code</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="action_test">Test</string>
+    <string name="nameHint">Name.....</string>
+    <string name="contactNum">Contact Number.....</string>
+    <string name="saveBtn">Save</string>
+    <string name="conCancel">Cancel</string>
+    <string name="plex_logo_description">logo</string>
+    <string name="sendLocation">location</string>
+    <string name="choose_contact">contacts</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="intro_txt">Hi there!</string>
+    <string name="contactHead">Contacts list</string>
+    <string name="bluetooth_title">Set Devices</string>
+    <string name="deviceSelection">Manage Devices</string>
+    <string name="status">Status:</string>
+    <string name="edit_btn_name">Edit contact</string>
+    <string name="btn_name_save">Save changes</string>
+    <string name="nameProfile">Name</string>
+    <string name="numberPhone">Contact number</string>
+    <string name="messageSms">Message</string>
+    <string name="hintMessageSms">Additional information you want to send to receiver\nwrite here...........</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

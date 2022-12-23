@@ -1,0 +1,45 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/appearance_header">
+        <EditTextPreference
+            app:key="setting_name"
+            app:title="@string/name_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="Light"
+            app:entries="@array/reply_entries"
+            app:entryValues="@array/reply_values"
+            app:key="setting_theme"
+            app:title="@string/theme_title"
+            app:useSimpleSummaryProvider="true" />
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/alert_header">
+        <ListPreference
+            app:defaultValue="Light"
+            app:entries="@array/ring_entries"
+            app:entryValues="@array/ring_values"
+            app:key="setting_ring"
+            app:title="@string/ring_title"
+            app:useSimpleSummaryProvider="true" />
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/security_header">
+        <EditTextPreference
+            app:key="setting_pin"
+            app:title="@string/pin_title"
+            app:useSimpleSummaryProvider="true" />
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/deviceSelection">
+        <ListPreference
+            app:defaultValue="Select"
+            app:entries="@array/reply_entries"
+            app:entryValues="@array/reply_values"
+            app:key="bt_device"
+            app:title="@string/bluetooth_title"
+            app:useSimpleSummaryProvider="true" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
